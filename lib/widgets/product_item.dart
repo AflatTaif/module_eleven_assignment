@@ -2,42 +2,33 @@ class productItems {
   static List<Map<String, dynamic>> items = [
     {
       "img":
-      "https://img.freepik.com/free-photo/businessman-front-brick-wall_23-2148242736.jpg?w=996&t=st=1715627264~exp=1715627864~hmac=01188d27999a4b87a00fc0735f7081e059cdb41f7050a155fe16b764f3b8ede6",
-      "title": "Shirt",
-      "color": "White",
-      "Size": "XL",
+      "https://s3-alpha-sig.figma.com/img/6e2a/6075/d2aebb9b52db31deea621f309362bab4?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=INX31Oi4omLO5svWjEQ~8CKbCVxDhiX6BwoxnRGHzC1E8qEJ039D1SS6XWN1oxnhbe3wQEWuvsVRE-pCSXfy3lVTdHjCgJ5C9b053Brs63k42cZ~LKbNd4WRq5l52MxWISTaJTDX9PiuwbXqgpJdAf6VKDw86XxZv~g2~0GfTiYelEbpgvobPtshSgN03zc~TFm1~YpVbXH-qH2abE~kr25CFXA4XCdPDPGfPsc9C~fealda~FRWWMTHGpRjYnWgisfJEBieqUia7ZbLThAzqUseeyp9TJYq59NEA1DMOBtwArZ0UQyec6Zma4Gs1Ce02Psplqe~609ryahVZyj9QQ__",
+      "title": "Pullover",
+      "color": "Black",
+      "Size": "L",
       "count": 1,
       "price": 750,
     },
 
     {
       "img":
-      "https://images.unsplash.com/photo-1605518215584-5ba74df5dfd8?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "Jeans",
-      "color": "Blue",
+      "https://s3-alpha-sig.figma.com/img/5e93/8ec8/ffc8353c2e4119cf43ecf6db7e381d9d?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AOW41X2lZLKhWJbYWBA~lsERRXbNpPH~z8OVng-N8F1OK9gyL1PgwEUz5WBua2uuj7rW4Z92kLtSGMxgLWtkky0RpRctYr5mMHZFPTl7Tm4C8xvK51CeRgn5Nzv3kPSp1lnonfMGBFPvjWMkjONpQEo-XkRvnG9CzKA6R9~IEsx4lkPrFRlnMGsKVoWowoE0jX~mVsr~sQcINviFql2PkaWvpFXm1AjCZPRUPK8UzjtILEi7ACkdBCyJrN9cZKAApiqUDWAP~9GVERsYTqSJ6kIrlElJbsx2qtPGekHLFOf4VNyZijDLIP~l2wsjtcD35zTLMOlFpD4xeGL~j8R6IQ__",
+      "title": "T-Shirt",
+      "color": "Gray",
       "Size": "42",
       "count": 1,
       "price": 799,
     },
     {
       "img":
-      "https://media.istockphoto.com/id/1705999512/photo/charming-woman-in-nature.jpg?s=1024x1024&w=is&k=20&c=-bel0SDMFv1xVisVix0s7UJ3kBmIqLqZs0aIHeUwik0=",
-      "title": "T-Shirt",
-      "color": "white",
+      "https://s3-alpha-sig.figma.com/img/1821/5f62/e259b4c9081785e2fb7f4b553d1a8023?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=V2cNFYhw-GsKjP2xFh73rGAH7UQqjpryJ3n4C0A~lLqd1g8CBzjsdCHBLaEokxbgN8r5xvY74yBlit8e1oVcynIuI0IDZy0RW8WmMuL4mUqMIOFVs~QcWd9C721fHMHjKasXvTtDfnHNxDzNvF24kQ3LXdgJfa8BLGizFI-dOA1gifHxmeUFpI~iDn7KFc4zmZ2TEFxmYZk1Bq4ZiOb8xGgsOb0tcT2z7SgCrQO683uneLCqzJ3F6eyk7PGP5tux9r4oueAX4954RpYTAs5~8q13e3vDoNR83LbffgHe5gQ9~gvosnUdmmsyMX~AnY-D5ZBlIzjjHhlYUDznJ4pLWw__",
+      "title": "Sports Dress",
+      "color": "Black and White",
       "Size": "L",
       "count": 1,
       "price": 300,
     },
 
-    {
-      "img":
-      "https://media.istockphoto.com/id/1698356341/photo/group-of-white-grey-blue-and-black-shorts-pants-isolated-on-background.jpg?s=2048x2048&w=is&k=20&c=-DP7zIwVERNO9TijM2wlgGa3fAowmdNuZdVHNLkSQvA=",
-      "title": "Shorts",
-      "color": "Black",
-      "Size": "L",
-      "count": 1,
-      "price": 499,
-    },
 
 
 
